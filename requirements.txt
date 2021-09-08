@@ -1,0 +1,6 @@
+PyPDF2
+python-pptx
+moviepy
+pytube
+imageio
+imageio-ffmpeg
