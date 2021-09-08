@@ -2,7 +2,7 @@
 
 ## Update
 This program is not complete.
-Only minimal backend part has made.
+Only minimal backend part has been made.
 
 ## Function
 There are six function in the program.
