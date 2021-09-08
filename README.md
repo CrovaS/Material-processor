@@ -2,6 +2,10 @@
   <img src="https://user-images.githubusercontent.com/86072294/132429234-81836a8b-300d-4e76-a5e2-95c73cb023e6.PNG" width="250">
 </p>
 <h1 align='center'>  Material-Processor </h1>
+<p align='center'>
+  <a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/github/license/CrovaS/Material-processor"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+</p>
 
 ## Update
 This program is not complete.
